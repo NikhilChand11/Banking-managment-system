@@ -1,2 +1,2 @@
-# Banking-managment-system
+# Banking-management-system
 Tells how banking system works
